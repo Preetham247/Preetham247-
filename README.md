@@ -1,4 +1,4 @@
-# Preetham247-
+# Preetham247
 # Hi there 👋, I'm Preetham Sonti
 
 ### 📊 Data Analytics & Cloud Enthusiast | B.Tech CSE @ VFSTR , AP
