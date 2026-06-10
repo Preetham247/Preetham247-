@@ -96,4 +96,3 @@
 
 ---
 
-*⭐ If you found my work useful, consider starring a repo!*
